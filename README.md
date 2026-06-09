@@ -176,12 +176,16 @@ A registration page for an educational web platform.
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
-## 📈 Contribution Graph
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thiva123-ab&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8E2DE2&line=4A00E0&point=ffffff" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiva123-ab/Thiva123-ab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiva123-ab/Thiva123-ab/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Thiva123-ab/Thiva123-ab/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
