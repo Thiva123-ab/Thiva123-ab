@@ -216,11 +216,7 @@ A registration page for an educational web platform.
 <br/>
 
 <!-- ===================== QUOTE ===================== -->
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-</div>
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
