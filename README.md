@@ -26,7 +26,7 @@
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-- 🎓 &nbsp;Software Engineering student at **NSBM Green University**, Sri Lanka
+- 🎓 &nbsp;**2nd-year Software Engineering** undergraduate at **NSBM Green University**, Sri Lanka
 - 🌱 &nbsp;Currently mastering **Spring Boot**, **REST APIs**, and **modern web development**
 - 💡 &nbsp;I love turning real-world problems into clean, working software
 - 🏥 &nbsp;Built projects like a **Pharmacy Stock System** & a **Flood Relief Live Map**
@@ -69,6 +69,84 @@
 
 ---
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Pharmacy Stock System
+A pharmacy stock management system for tracking medicine inventory, stock levels, and records.
+
+`JavaScript`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiva123-ab/Pharmacy-stock-system)
+
+</td>
+<td width="50%">
+
+### 🌊 Sri Lanka Flood Relief Live Map
+A live map to coordinate flood relief efforts across Sri Lanka and connect those in need with help.
+
+`JavaScript`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiva123-ab/Sri-Lanka-Flood-Relief-Coordinator-Live-Map)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☕ DEA Spring Boot Project
+A Java Spring Boot application built for the Enterprise Application Development module.
+
+`Java` &nbsp;`Spring Boot`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-4A00E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiva123-ab/DEA-Spring-Boot-Project)
+
+</td>
+<td width="50%">
+
+### 🏋️ Gym Management
+A gym management web application template built with PHP.
+
+`PHP`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-4A00E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiva123-ab/gym)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 HyperionDev Login
+An educational website front-end with a login interface.
+
+`HTML` &nbsp;`CSS`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiva123-ab/HyperionDev-login)
+
+</td>
+<td width="50%">
+
+### 📝 Hyperion Registration
+A registration page for an educational web platform.
+
+`HTML` &nbsp;`CSS`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-8E2DE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiva123-ab/hyperion-registation)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
 
@@ -90,7 +168,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Thiva123-ab&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thiva123-ab&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</a>
 
 </div>
 
@@ -112,14 +192,23 @@
 
 <div align="center">
 
+<a href="https://thiva123-ab.github.io/My-portfolio-/">
+  <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/thivanka-tharuka">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/Thiva123-ab">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://www.facebook.com/thivanka.tharuka">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://wa.me/94717359120">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 <a href="mailto:thivankatharuka36@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
