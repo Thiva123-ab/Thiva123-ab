@@ -12,7 +12,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Thiva123-ab&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/Thiva123-ab?tab=followers">
-    <img src="https://img.shields.io/github/followers/Thiva123-ab?label=Followers&style=for-the-badge&color=4A00E0" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Thiva123-ab?label=Followers&style=for-the-badge&color=4A00E0&logo=github&logoColor=white&cacheSeconds=3600" alt="Followers" />
   </a>
   <img src="https://img.shields.io/badge/Be%20the%201%25-8E2DE2?style=for-the-badge&logo=target&logoColor=white" alt="motto" />
 </p>
